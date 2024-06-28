@@ -2,6 +2,7 @@ NotesApp is a simple and intuitive application designed to help you take, save, 
 
 
 FEATURES:
+
 Create Notes: Quickly add notes with a simple and user-friendly interface.
 
 Save Notes: All your notes are securely saved if you want, allows you to retrieve them anytime in the future.
