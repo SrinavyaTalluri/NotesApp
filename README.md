@@ -9,5 +9,3 @@ Save Notes: All your notes are securely saved if you want, allows you to retriev
 
 Delete Notes: Easily delete notes that are no longer needed to keep your workspace clutter-free.
 
-
-You can view a live demo of the language converter here: http://127.0.0.1:5500/Notes%20App/first.html
